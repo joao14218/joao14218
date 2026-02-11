@@ -25,7 +25,7 @@ Atualmente moro em **Nova Iguaçu, RJ**, e sou apaixonado por resolver problemas
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao14218&layout=compact&theme=dracula"/>
 </div>
 
 ---
