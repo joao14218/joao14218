@@ -1,6 +1,6 @@
 # Olá, eu sou João Santos 👋
 
-### 🎓 Estudante de Analise e Desenvolvimento de Sistamas
+### 🎓 Estudante de Analise e Desenvolvimento de Sistemas
 Atualmente moro em **Nova Iguaçu, RJ**, e sou apaixonado por resolver problemas reais através do código e estou focado em desenvolver soluções práticas.
 
 ---
